@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @youwass250
 - 👀 I’m interested in game dev
-- 🌱 I’m currently learning game devaloping
-- 📫 How to reach me insta = @youcef.bennacer
+- 🌱 I’m currently learning game dev
 
 <!---
 youwass250/youwass250 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
